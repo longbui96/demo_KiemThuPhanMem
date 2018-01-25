@@ -16,5 +16,11 @@ namespace demo_kiemthuphanmem
         {
             InitializeComponent();
         }
+/*
+*	public Form1()
+*       {
+*            InitializeComponent();
+*       }
+*/
     }
 }
