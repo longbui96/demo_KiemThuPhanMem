@@ -20,6 +20,8 @@ namespace demo_kiemthuphanmem
 *	public Form1()
 *       {
 *            InitializeComponent();
+*		// Comment them 1 dong
+*		// Comment them 2 dong
 *       }
 */
     }
